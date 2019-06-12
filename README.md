@@ -11,6 +11,7 @@ You can search a movie, know its ratings, plot, watch trailer...and other inform
 
 # Snapshots on PC:
 ![](/snapshots/Snapshot_1.jpg)
+![](/snapshots/Snapshot_2.jpg)
 
 
 # Snapshots on Mobile:

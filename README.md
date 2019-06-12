@@ -1,4 +1,4 @@
-# What it does
+# What it does:
 You can search a movie, know its ratings, plot, watch trailer...and other information or you can also view top 100 rated and popular movies.
 
 # Made Using:
@@ -11,7 +11,20 @@ You can search a movie, know its ratings, plot, watch trailer...and other inform
 
 # Snapshots on PC:
 ![](/snapshots/Snapshot_1.jpg)
+
 ![](/snapshots/Snapshot_2.jpg)
 
+![](/snapshots/Snapshot_3.jpg)
+
+![](/snapshots/Snapshot_4.jpg)
 
 # Snapshots on Mobile:
+![](/snapshots/Snapshot_Mobile_1.jpg)
+
+![](/snapshots/Snapshot_Mobile_2.jpg)
+
+![](/snapshots/Snapshot_Mobile_3.jpg)
+
+![](/snapshots/Snapshot_Mobile_4.jpg)
+
+![](/snapshots/Snapshot_Mobile_5.jpg)

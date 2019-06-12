@@ -1,0 +1,125 @@
+.bg-theme{
+    background-color:maroon;
+    color: white;
+}
+.bg-theme-outline{
+    border:1px solid maroon;
+    color: maroon;
+}
+.bg-theme-outline:hover{
+    color:white;
+    background-color: maroon;
+}
+.text-theme{
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+body{
+    margin:0px;
+    padding:0px;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 50px;
+}
+.addToBody{
+    background-size: cover;
+}
+#header{
+    padding:1vw;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px;
+}
+#logo{
+    font-size: 2.5vw;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
+#home{
+    color:white;
+    font-size: 1vw;
+}
+.header-link{
+    color:white;
+    padding:5px;
+    border-radius: 20px;
+}
+.header-link:hover{
+    background-color: lightgray;
+    color:black;
+}
+.movie-border{
+    position: relative;
+    border: 2px solid white;
+    border-radius: 5px;
+    box-shadow: -2px 2px 10px black;
+    height:23vw;
+    width:15vw;
+    margin:auto;
+}
+.movie-border:hover{
+    border:2px solid maroon;
+    color: white;
+    background: black; 
+}
+.movie-border:hover .inner{
+    opacity:0.5; 
+}
+.movie-rating{
+    font-size:3vw;
+    text-shadow: 2px 2px black;
+}
+.movie-release{
+    font-size:1.5vw;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+}
+.movie-title{
+    font-size:1.5vw;
+    text-align: center;
+}
+.my-active{
+    background-color: white;
+    color: maroon;
+}
+.my-submit-btn{
+    font-size:1.5vw;
+    background-color: #FA9F42;
+    color: white;
+    padding: 0.5vw 1vw;  
+}
+.myMarquee{
+    overflow:hidden;
+}
+.myActive{
+    background-color: black;
+    color: white;
+    font-weight: bold; 
+}
+@media screen and (max-width:575.5px){
+    #logo{
+        font-size:3.5vw;
+    }
+    #log-sign{
+        font-size: 2vw;
+    }
+    .movie-border{
+        height:46vw;
+        width:30vw;
+    }
+    .movie-rating{
+        font-size:6vw;
+    }
+    .movie-release{
+        font-size:3vw;
+    }
+    .my-submit-btn{
+        font-size:3vw;
+        padding: 1vw 2vw;
+    }
+    .movie-title{
+        font-size:3vw;
+    }
+}

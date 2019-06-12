@@ -10,6 +10,7 @@ You can search a movie, know its ratings, plot, watch trailer...and other inform
 6. TMDB API is used to fetch movies information.
 
 # Snapshots on PC:
+![](/snapshots/Snapshot_1.jpg)
 
 
 # Snapshots on Mobile:

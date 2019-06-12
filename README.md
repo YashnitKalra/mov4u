@@ -19,8 +19,8 @@ You can search a movie, know its ratings, plot, watch trailer...and other inform
 ![](/snapshots/Snapshot_4.jpg)
 
 # Snapshots on Mobile:
-![](/snapshots/Snapshot_mobile_1.jpg) ![](/snapshots/Snapshot_mobile_2.jpg)
+![](/snapshots/Snapshot_mobile_1.png) ![](/snapshots/Snapshot_mobile_2.png)
 
-![](/snapshots/Snapshot_mobile_3.jpg) ![](/snapshots/Snapshot_mobile_4.jpg)
+![](/snapshots/Snapshot_mobile_3.png) ![](/snapshots/Snapshot_mobile_4.png)
 
-![](/snapshots/Snapshot_mobile_5.jpg)
+![](/snapshots/Snapshot_mobile_5.png)
